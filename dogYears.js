@@ -1,4 +1,4 @@
-//Declare myAge as a variable that will change.
+//Declare myAge as a variable that will not change.
 const myAge= 26;
 
 //Declare earlyYears as a variable that will change.
